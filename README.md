@@ -33,3 +33,6 @@
 
 ###
 
+![Snake animation](https://github.com/Biancaver4as/Biancaver4as/blob/output/github-contribution-grid-snake.svg)
+
+
